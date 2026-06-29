@@ -66,3 +66,5 @@ Error-Control-Coding-BSC-Simulation/
 ├── README.md                                # This file
 └── test.png                                 # Lenna test image (download via wget)
 ```
+
+![Simulation Result](error_control_coding_result.png)
