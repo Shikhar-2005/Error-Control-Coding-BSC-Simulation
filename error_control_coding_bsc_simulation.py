@@ -4,7 +4,7 @@ Error Control Coding — BSC Simulation with Linear Block Codes
 Schemes compared: Unencoded  |  Repetition (3,1)  |  Hamming (7,4)
 Quality metric  : PSNR (Peak Signal-to-Noise Ratio) in dB
 
-Author: [Your Name]
+Author: Shikhar Srivastava
 Description:
     Simulates grayscale image transmission over a Binary Symmetric Channel (BSC).
     Implements and compares two Linear Block Codes (LBC) — Repetition (3,1) and
