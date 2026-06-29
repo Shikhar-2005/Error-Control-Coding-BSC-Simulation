@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+test.png
+error_control_coding_result.png
